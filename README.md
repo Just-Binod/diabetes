@@ -4,8 +4,7 @@
 
 An end-to-end **Machine Learning project** that predicts whether a patient has **Diabetes** or **Not Diabetic** based on medical diagnostic measurements using a Support Vector Classifier (SVC).
 
- **Live Demo:** (Add your Streamlit Cloud link here after deployment)
-
+ **Live Demo:** (https://diabetes-prediction-svm.streamlit.app/)
 ---
 
 ##  Project Overview
