@@ -38,23 +38,8 @@ The model is trained using **Scikit-learn's SVC** and deployed as an interactive
 - **Streamlit**
 - **Pickle** (for model saving/loading)
 
----
 
-## 📂 Project Structure
 
-```
-diabetes_prediction_ML/
-│
-├── dataset/                  # (if you have the raw csv)
-│   └── diabetes.csv
-│
-├── app.py                    # Streamlit web application
-├── diabetes_model.pkl        # Trained SVC model
-├── diabetes_pred_ml.ipynb    # Jupyter notebook for training
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
 
 ---
 
