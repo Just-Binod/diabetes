@@ -1,14 +1,14 @@
 **Diabetes Prediction** project.
 ```markdown
-# 🩸 Diabetes Prediction (Machine Learning Project)
+#  Diabetes Prediction (Machine Learning Project)
 
 An end-to-end **Machine Learning project** that predicts whether a patient has **Diabetes** or **Not Diabetic** based on medical diagnostic measurements using a Support Vector Classifier (SVC).
 
-🚀 **Live Demo:** (Add your Streamlit Cloud link here after deployment)
+ **Live Demo:** (Add your Streamlit Cloud link here after deployment)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project uses the **Pima Indians Diabetes Dataset** to predict the onset of diabetes in women based on several diagnostic factors. The model classifies patients into two categories:
 
@@ -93,12 +93,12 @@ streamlit run app.py
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 This project can be easily deployed on **Streamlit Community Cloud** for free.  
 Just connect your GitHub repository and deploy `app.py`.
 
-👉 **Live Demo:** (Add your deployed link here)
+👉 **Live Demo:** (https://diabetes-prediction-svm.streamlit.app/)
 
 ---
 
@@ -117,7 +117,7 @@ Just connect your GitHub repository and deploy `app.py`.
   - Age
 - **Target**: Outcome (0 = Not Diabetic, 1 = Diabetic)
 
----
+----
 
 ## 📸 Demo
 
